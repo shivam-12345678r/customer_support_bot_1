@@ -15,4 +15,4 @@ A customer support chatbot powered by Claude-3 Opus that answers queries based o
    ```bash
    git clone https://github.com/your-username/customer-support-bot_1.git
    cd customer-support-bot_1
-
+2.run support_bot.py
