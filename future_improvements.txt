@@ -1,0 +1,6 @@
+Future Improvements
+Add real-time user feedback instead of random feedback.
+Improve response accuracy using embeddings for better retrieval.
+Deploy it as a FastAPI web service.
+
+
