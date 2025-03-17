@@ -1,0 +1,13 @@
+2025-03-17 19:36:50,341 - INFO - Initializing SupportBotAgent
+2025-03-17 19:36:50,345 - INFO - Loaded document: faq.txt
+2025-03-17 19:36:50,346 - INFO - Processing query: How do I reset my password?
+2025-03-17 19:36:56,013 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-03-17 19:36:56,017 - INFO - Feedback received: too vague
+2025-03-17 19:36:56,017 - INFO - Feedback received: good
+2025-03-17 19:36:56,017 - INFO - Processing query: What’s the refund policy?
+2025-03-17 19:36:59,693 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-03-17 19:36:59,696 - INFO - Feedback received: good
+2025-03-17 19:36:59,696 - INFO - Processing query: How do I delete my account?
+2025-03-17 19:37:05,018 - INFO - HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2025-03-17 19:37:05,021 - INFO - Feedback received: too vague
+2025-03-17 19:37:05,021 - INFO - Feedback received: good
